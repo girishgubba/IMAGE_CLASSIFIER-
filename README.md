@@ -57,7 +57,7 @@ image-classifier/
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/image-classifier.git
+   git clone https://github.com/girishgubba/IMAGE_CLASSIFIER-.git
    cd image-classifier
    
 
